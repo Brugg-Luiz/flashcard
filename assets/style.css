@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(189, 181, 255);
+    background-color: rgb(165, 162, 194);
 }
 footer {
     background-color: black;
@@ -7,5 +7,4 @@ footer {
     bottom:0;
     position:fixed;
     width:100%;
-}
 }
